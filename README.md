@@ -1,7 +1,7 @@
 # image2text
 Simple React application built to transcribe images of Bosnian/Serbian/Croatian handwriting using Google Gemini.
 
-This application was built to help save time for teachers. When reviewing exams, I was told that often the hardest part for teachers was deciphering bad/messy handwriting. That motivated me to try and come up with a solution.
+This application was built to help save time for teachers. Teachers told me that often the hardest part of reviewing exams was deciphering bad/messy handwriting. That motivated me to try and come up with a solution.
 
 # Screenshots
 
